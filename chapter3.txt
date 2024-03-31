@@ -1,17 +1,1 @@
-When you look back at the biggest breakthroughs in AI over the last decade,
-Google has been at the forefront of so many of them. Our groundbreaking work
-in foundation models has become the bedrock for the industry and the AI-powered
-products that billions of people use daily. As we continue to responsibly advance
-these technologies, there’s great potential for transformational uses in areas as
-far-reaching as healthcare and human creativity.
-
-Over the past decade of developing AI, we’ve learned that so much is possible as
-you scale up neural networks — in fact, we’ve already seen surprising and delightful
-capabilities emerge from larger sized models. But we’ve learned through our research
-that it’s not as simple as “bigger is better,” and that research creativity is key
-to building great models. More recent advances in how we architect and train models
-have taught us how to unlock multimodality, the importance of having human feedback
-in the loop, and how to build models more efficiently than ever. These are powerful
-building blocks as we continue to advance the state of the art in AI while building
-models that can bring real benefit to people in their daily lives.
-
+It was the spring of hope, it was the winter of despair.
