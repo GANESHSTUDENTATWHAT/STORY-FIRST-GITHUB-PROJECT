@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-“If [developers] understand what the technology is capable of and they understand the domain very well, they start to make connections and say, ‘Maybe this is an AI problem, maybe that’s an AI problem,’” said Mike Mendelson, a learner experience designer for NVIDIA. “That’s more often the case than, ‘I have a specific problem I want to solve.’”
-
 MORE ON AI
 75 Artificial Intelligence (AI) Companies to Know
 
@@ -109,7 +106,3 @@ The use of AI in automated weapons poses a major threat to countries and their g
 SUPERIOR INTELLIGENCE
 Nightmare scenarios depict what’s known as the technological singularity, where superintelligent machines take over and permanently alter human existence through enslavement or eradication. Even if AI systems never reach this level, they can become more complex to the point where it’s difficult to determine how AI makes decisions at times. This can lead to a lack of transparency around how to fix algorithms when mistakes or unintended behaviors occur. 
 
-“I don’t think the methods we use currently in these areas will lead to machines that decide to kill us,” said Marc Gyongyosi, founder of Onetrack.AI. “I think that maybe five or 10 years from now, I’ll have to reevaluate that statement because we’ll have different methods available and different ways to go about these things.”
-=======
-es, data poisoning and exfiltration.
->>>>>>> Ai-ideology
