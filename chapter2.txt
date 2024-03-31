@@ -2,23 +2,4 @@ For a closer look at Google’s security Red Team, watch the above video.
 
 Over the past decade, we’ve evolved our approach to translate the concept
 
-of red teaming to the latest innovations in technology, including AI.
- The AI Red Team is closely aligned with traditional red teams,
-  but also has the necessary AI subject matter expertise to carry
-  out complex technical attacks on AI systems. To ensure that they
-  are simulating realistic adversary activities, our team leverages
-  the latest insights from world class Google Threat Intelligence teams
-  like Mandiant and the Threat Analysis Group (TAG), content abuse red
-   teaming in Trust & Safety, and research into the latest attacks from Google DeepMind.
-
-Common types of red team attacks on AI systems
-One of the key responsibilities of Google’s AI Red Team is to take relevant
- research and adapt it to work against real products and features that use
-  AI to learn about their impact. Exercises can raise findings across security,
-   privacy, and abuse disciplines, depending on where and how the technology
-    is deployed. To identify these opportunities to improve safety, we leverage
-     attackers' tactics, techniques and procedures (TTPs) to test a range of
-     system defenses. In today’s report, there is a list of TTPs that we consider
-     most relevant and realistic for real world adversaries and red teaming exercises.
-      They include prompt attacks, training data extraction,
-backdooring the model, adversarial examples, data poisoning and exfiltration.
+es, data poisoning and exfiltration.

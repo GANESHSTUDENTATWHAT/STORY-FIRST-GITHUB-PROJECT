@@ -2,21 +2,3 @@ Last month, we introduced the Secure AI Framework (SAIF),
  designed to help address risks to AI systems and drive security
   standards for the technology in a responsible manner.
 
-
-To build on this momentum, today, we’re publishing a new report
-to explore one critical capability that we deploy to support SAIF:
- red teaming. We believe that red teaming will play a decisive role
- in preparing every organization for attacks on AI systems and look
- forward to working together to help everyone utilize AI in a secure
-  way. The report examines our work to stand up a dedicated AI Red Team
-   and includes three important areas: 1) what red teaming in the context
-   of AI systems is and why it is important; 2) what types of attacks AI
-   red teams simulate; and 3) lessons we have learned that we can share with others.
-
-What is red teaming?
-Google Red Team consists of a team of hackers that simulate a variety
- of adversaries, ranging from nation states and well-known Advanced
- Persistent Threat (APT) groups to hacktivists, individual criminals
- or even malicious insiders. The term came from the military, and described
- activities where a designated team would play an adversarial role (the “Red Team”)
- against the “home” team.

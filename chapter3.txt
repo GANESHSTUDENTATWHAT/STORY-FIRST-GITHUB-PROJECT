@@ -15,21 +15,3 @@ in the loop, and how to build models more efficiently than ever. These are power
 building blocks as we continue to advance the state of the art in AI while building
 models that can bring real benefit to people in their daily lives.
 
-Introducing PaLM 2
-Building on this work, today we’re introducing PaLM 2, our next generation
-language model. PaLM 2 is a state-of-the-art language model with improved
-multilingual, reasoning and coding capabilities.
-
-Multilinguality: PaLM 2 is more heavily trained on multilingual text,
-spanning more than 100 languages. This has significantly improved its
-ability to understand, generate and translate nuanced text — including
-idioms, poems and riddles — across a wide variety of languages, a hard
-problem to solve. PaLM 2 also passes advanced language proficiency exams
-at the “mastery” level.
-Reasoning: PaLM 2’s wide-ranging dataset includes scientific papers and
-web pages that contain mathematical expressions. As a result, it demonstrates
-improved capabilities in logic, common sense reasoning, and mathematics.
-Coding: PaLM 2 was pre-trained on a large quantity of publicly available sourcecode datasets.
-This means that it excels at popular programming languages like
-and JavaScript, but can also generate specialized code in languages like
-Prolog, Fortran and Verilog.
